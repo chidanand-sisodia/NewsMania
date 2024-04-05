@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "",
+      "title": "Embittered Republicans plot to knock off House GOP’s hard-right leader in primary feud | CNN Politics",
+      "description": "CNN’s Manu Raju takes a look at Rep. Bob Good (R-VA) and why some Republicans plot to knock off the House GOP’s hard-right leader in the Virginia primary feud.",
+      "url": "https://www.cnn.com/videos/politics/2024/03/31/bob-good-gop-colleagues-virginia-raju-pkg-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240331201150-bob-good-manu-raju.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-01T00:36:49Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "",
+      "title": "Video appears to show GOP Congressman suggesting dropping bombs on Gaza | CNN Politics",
+      "description": "In a video posted online by a person affiliated with a Democratic advocacy group, Republican Rep. Tim Walberg can be heard, but not seen, appearing to suggest bombs should be dropped on Gaza “like Nagasaki and Hiroshima” to “get it over quick.” Walberg insist…",
+      "url": "https://www.cnn.com/videos/politics/2024/03/31/tim-walberg-gaza-bomb-nagasaki-hiroshima-nr-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240331144135-tim-walberg-vpx.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-31T19:23:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters Graphics",
+      "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
+      "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
+      "url": "https://www.reuters.com/graphics/",
+      "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg",
+      "publishedAt": "2020-12-21T00:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}

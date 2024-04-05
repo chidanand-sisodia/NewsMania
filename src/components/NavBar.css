@@ -1,0 +1,26 @@
+/* NavBar.css */
+.nav-link-hover {
+    position: relative;
+    display: inline-block; /* Makes the element's width fit its content */
+    padding-left: 0; /* Adjust if necessary */
+    padding-right: 0; /* Adjust if necessary */
+  }
+  
+  .nav-link-hover::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -2px;
+    height: 2px;
+    background-color: #ffffff;
+    transition: all 0.3s ease;
+    transform: scaleX(0); /* Initially scaled to 0 width */
+    transform-origin: bottom right; /* Starts transformation from the bottom right */
+  }
+  
+  .nav-link-hover:hover::after {
+    transform: scaleX(1); /* Scale to full width on hover */
+    transform-origin: bottom left; /* Ends transformation at the bottom left */
+  }
+  
